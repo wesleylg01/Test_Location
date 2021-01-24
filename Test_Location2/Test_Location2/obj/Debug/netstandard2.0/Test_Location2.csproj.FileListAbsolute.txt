@@ -1,0 +1,14 @@
+C:\Users\Wesley\Documents\Xamarin\Test_Location2\Test_Location2\Test_Location2\bin\Debug\netstandard2.0\Test_Location2.deps.json
+C:\Users\Wesley\Documents\Xamarin\Test_Location2\Test_Location2\Test_Location2\bin\Debug\netstandard2.0\Test_Location2.dll
+C:\Users\Wesley\Documents\Xamarin\Test_Location2\Test_Location2\Test_Location2\obj\Debug\netstandard2.0\Test_Location2.csprojAssemblyReference.cache
+C:\Users\Wesley\Documents\Xamarin\Test_Location2\Test_Location2\Test_Location2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Wesley\Documents\Xamarin\Test_Location2\Test_Location2\Test_Location2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Wesley\Documents\Xamarin\Test_Location2\Test_Location2\Test_Location2\obj\Debug\netstandard2.0\Test_Location2.AssemblyInfoInputs.cache
+C:\Users\Wesley\Documents\Xamarin\Test_Location2\Test_Location2\Test_Location2\obj\Debug\netstandard2.0\Test_Location2.AssemblyInfo.cs
+C:\Users\Wesley\Documents\Xamarin\Test_Location2\Test_Location2\Test_Location2\bin\Debug\netstandard2.0\ref\Test_Location2.dll
+C:\Users\Wesley\Documents\Xamarin\Test_Location2\Test_Location2\Test_Location2\bin\Debug\netstandard2.0\Test_Location2.pdb
+C:\Users\Wesley\Documents\Xamarin\Test_Location2\Test_Location2\Test_Location2\obj\Debug\netstandard2.0\Test_Location2.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\Documents\Xamarin\Test_Location2\Test_Location2\Test_Location2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Wesley\Documents\Xamarin\Test_Location2\Test_Location2\Test_Location2\obj\Debug\netstandard2.0\Test_Location2.dll
+C:\Users\Wesley\Documents\Xamarin\Test_Location2\Test_Location2\Test_Location2\obj\Debug\netstandard2.0\ref\Test_Location2.dll
+C:\Users\Wesley\Documents\Xamarin\Test_Location2\Test_Location2\Test_Location2\obj\Debug\netstandard2.0\Test_Location2.pdb
